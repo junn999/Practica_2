@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "archivo_1", "archivo_1\archivo_1.csproj", "{A4767419-5E65-48C7-BC8C-3D7210D4C89B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "archivo_1", "archivo_1\archivo_1.csproj", "{A4767419-5E65-48C7-BC8C-3D7210D4C89B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "archivo_2", "archivo_2\archivo_2.csproj", "{3267317A-B1ED-40CB-8C2F-1CF9B39DA4F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "archivo_2", "archivo_2\archivo_2.csproj", "{3267317A-B1ED-40CB-8C2F-1CF9B39DA4F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "archivo_3", "archivo_3\archivo_3.csproj", "{917B2F9C-8390-46E0-A610-2ABB55D47E7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "archivo_3", "archivo_3\archivo_3.csproj", "{917B2F9C-8390-46E0-A610-2ABB55D47E7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "archivo_4", "archivo_4\archivo_4.csproj", "{43983554-781A-4554-9A2B-C6C43A4BF928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "archivo_4", "archivo_4\archivo_4.csproj", "{43983554-781A-4554-9A2B-C6C43A4BF928}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "archivo_5", "archivo_5\archivo_5.csproj", "{2610FDBB-2D88-4D7C-B428-9BF2EF17AB98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "archivo_5", "archivo_5\archivo_5.csproj", "{2610FDBB-2D88-4D7C-B428-9BF2EF17AB98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones", "Funciones\Funciones.csproj", "{0C6D0998-7A78-4998-B4B4-730610B069BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "archivo_7", "archivo_7\archivo_7.csproj", "{BC31F8BE-FEC2-42A7-B640-C77D77065ABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea_calculadora", "tarea_calculadora\tarea_calculadora.csproj", "{7B162409-4025-41AF-B8DF-CB4891975579}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{2610FDBB-2D88-4D7C-B428-9BF2EF17AB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2610FDBB-2D88-4D7C-B428-9BF2EF17AB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2610FDBB-2D88-4D7C-B428-9BF2EF17AB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6D0998-7A78-4998-B4B4-730610B069BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6D0998-7A78-4998-B4B4-730610B069BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6D0998-7A78-4998-B4B4-730610B069BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6D0998-7A78-4998-B4B4-730610B069BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC31F8BE-FEC2-42A7-B640-C77D77065ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC31F8BE-FEC2-42A7-B640-C77D77065ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC31F8BE-FEC2-42A7-B640-C77D77065ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC31F8BE-FEC2-42A7-B640-C77D77065ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B162409-4025-41AF-B8DF-CB4891975579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B162409-4025-41AF-B8DF-CB4891975579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B162409-4025-41AF-B8DF-CB4891975579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B162409-4025-41AF-B8DF-CB4891975579}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
